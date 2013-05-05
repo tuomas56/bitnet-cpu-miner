@@ -1,0 +1,8 @@
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Bitnet.Client\bin\Release\Bitnet.Client.dll
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Bitnet.Client\bin\Release\Bitnet.Client.pdb
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Bitnet.Client\bin\Release\Newtonsoft.Json.dll
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Bitnet.Client\bin\Release\Newtonsoft.Json.pdb
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Bitnet.Client\bin\Release\Newtonsoft.Json.xml
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Bitnet.Client\obj\Release\Bitnet.Client.csprojResolveAssemblyReference.cache
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Bitnet.Client\obj\Release\Bitnet.Client.dll
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Bitnet.Client\obj\Release\Bitnet.Client.pdb
